@@ -1,6 +1,6 @@
 ## **CodeAlpha Internship Project**
 
-Welcome to my **CodeAlpha Internship Project** repository! This project was developed during my Full Stack Development Internship at CodeAlpha, where I had the opportunity to enhance my skills in web development and software engineering.
+Welcome to my **CodeAlpha Internship Project** repository! This project was developed during my Front End Internship at CodeAlpha, where I had the opportunity to enhance my skills in web development and software engineering.
 
 ### **Project Overview**
 
