@@ -1,0 +1,42 @@
+/* Task4.module.css */
+
+.musicPlayerContainer {
+  width: 300px; /* Fixed width */
+  margin: 20px auto; /* Center the container */
+  padding: 20px;
+  border: 2px solid #333; /* Dark border around the music player */
+  border-radius: 8px; /* Rounded corners */
+  background-color: #f9f9f9; /* Light background color */
+  text-align: center;
+}
+
+.title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.songList {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.songList li {
+  margin-bottom: 10px;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}

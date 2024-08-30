@@ -1,0 +1,18 @@
+/* Home.module.css */
+
+.homeContainer {
+    padding: 50px;
+    text-align: center;
+    background-color: #ffffff; /* White background */
+  }
+  
+  .welcomeMessage {
+    font-size: 36px;
+    color: #333; /* Dark color for the welcome message */
+  }
+  
+  .introduction {
+    font-size: 18px;
+    color: #666; /* Lighter color for the introduction text */
+  }
+  

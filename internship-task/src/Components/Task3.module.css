@@ -1,0 +1,74 @@
+/* Task3.module.css */
+
+.resumeContainer {
+  max-width: 800px; /* Fixed maximum width */
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0f0f5; /* Light grey background */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left; /* Align content to the left */
+}
+
+.heading {
+  font-size: 32px;
+  margin-bottom: 10px;
+  color: #333;
+  text-align: center; /* Center the main heading */
+}
+
+.contactInfo {
+  font-size: 16px;
+  color: #666;
+  text-align: center; /* Center the contact information */
+}
+
+.socialLinks {
+  font-size: 16px;
+  color: #007bff;
+  text-align: center; /* Center the social links */
+}
+
+.socialLinks a {
+  text-decoration: none;
+  color: #007bff;
+  margin-right: 10px;
+}
+
+.socialLinks a:hover {
+  text-decoration: underline;
+}
+
+.divider {
+  margin: 20px 0;
+  border: none;
+  border-top: 2px solid #ddd; /* Styled horizontal rule */
+}
+
+.section {
+  margin-top: 20px;
+}
+
+.sectionHeading {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #444;
+  text-transform: uppercase; /* Uppercase letters for headings */
+  background-color: #f0f0f5; /* Highlight color for headings */
+  padding: 5px 0;
+  border-bottom: 2px solid #007bff; /* Bottom border for heading */
+}
+
+.sectionContent {
+  font-size: 16px;
+  color: #444;
+}
+
+.projectDetails {
+  list-style-type: none;
+  padding: 0;
+}
+
+.projectDetails li {
+  margin-bottom: 5px;
+}
