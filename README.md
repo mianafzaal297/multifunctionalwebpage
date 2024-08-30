@@ -43,15 +43,17 @@ Contributions are welcome! If you have suggestions for improvements or want to a
 ### **License**
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-![Portfolio 5](https://github.com/user-attachments/assets/1a5b011e-8b20-476c-b8e1-29836462d820)
-![Portfolio 4](https://github.com/user-attachments/assets/d714ece1-743f-4056-b2ed-b8c7fa483dab)
-![Portfolio 2](https://github.com/user-attachments/assets/7aa655cb-348d-4f01-80da-53565197be44)
-![Portfolio 1](https://github.com/user-attachments/assets/a03eae0e-eb24-4d49-b736-59133e7b14b9)
-![Music](https://github.com/user-attachments/assets/5295dd26-9bf7-4b30-a43e-01f33600eda4)
-![Music Playing](https://github.com/user-attachments/assets/5cb987d2-6b3c-4384-a4e2-9978ee124eed)
 ![Home](https://github.com/user-attachments/assets/4ecd279f-2542-4157-8175-0b51ec575fcc)
+![Calcultor](https://github.com/user-attachments/assets/1d725540-b1d4-4330-a4ba-af48a75dd207)
+![Calculator Input](https://github.com/user-attachments/assets/275ec59e-200d-474b-9a31-0d3bbf1591d5)
+![Calculator Result](https://github.com/user-attachments/assets/60ecf8b9-19da-46ab-b16c-bf1124e996fa)
 ![Gallery](https://github.com/user-attachments/assets/9dffbe98-5326-4305-9dca-34aa26795880)
 ![Gallery Hover](https://github.com/user-attachments/assets/b0b5867f-bc44-44fe-b380-36371741156c)
-![Calcultor](https://github.com/user-attachments/assets/1d725540-b1d4-4330-a4ba-af48a75dd207)
-![Calculator Result](https://github.com/user-attachments/assets/60ecf8b9-19da-46ab-b16c-bf1124e996fa)
-![Calculator Input](https://github.com/user-attachments/assets/275ec59e-200d-474b-9a31-0d3bbf1591d5)
+![Portfolio 1](https://github.com/user-attachments/assets/a03eae0e-eb24-4d49-b736-59133e7b14b9)
+![Portfolio 2](https://github.com/user-attachments/assets/7aa655cb-348d-4f01-80da-53565197be44)
+![Portfolio 4](https://github.com/user-attachments/assets/d714ece1-743f-4056-b2ed-b8c7fa483dab)
+![Portfolio 5](https://github.com/user-attachments/assets/1a5b011e-8b20-476c-b8e1-29836462d820)
+![Music](https://github.com/user-attachments/assets/5295dd26-9bf7-4b30-a43e-01f33600eda4)
+![Music Playing](https://github.com/user-attachments/assets/5cb987d2-6b3c-4384-a4e2-9978ee124eed)
+
+
