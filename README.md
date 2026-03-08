@@ -32,7 +32,7 @@ This repository contains a multi-functional web application built using **React*
 
 ### **Installation and Setup**
 To run this project locally:
-1. Clone the repository: `git clone https://github.com/yourusername/codealpha-internship-project.git`
+1. Clone the repository: `git clone https://github.com/mianafzaal297/codealpha-internship-project.git`
 2. Navigate to the project directory: `cd codealpha-internship-project`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
